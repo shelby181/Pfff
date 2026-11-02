@@ -191,9 +191,9 @@ footer {
     <p>Quelques images pour conserver nos plus beaux souvenirs.</p>
 
     <div class="gallery">
-        <img src="49137ee007968eeb010f2d510e83114d.jpg" " alt="Souvenir 1">
+        <img src="49137ee007968eeb010f2d510e83114d.jpg"alt="Souvenir 1">
         <img src="49137ee007968eeb010f2d510e83114d.jpg" alt="Souvenir 2">
-        <img src="49137ee007968eeb010f2d510e83114d.jpg" " alt="Souvenir 3">
+        <img src="49137ee007968eeb010f2d510e83114d.jpg" alt="Souvenir 3">
     </div>
 
     <p style="margin-top:15px;color:#aaa;">
